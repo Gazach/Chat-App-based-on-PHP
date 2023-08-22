@@ -1,0 +1,14 @@
+body {
+    position: relative;
+    min-height: calc(100vh - 140px);
+}
+p {
+    width: auto;
+
+}
+.sender {
+    background-color: rgb(242, 255, 222);
+}
+.removeautomargin {
+    margin: 0;
+}
