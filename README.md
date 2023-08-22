@@ -1,6 +1,6 @@
 # Chat-App-based-on-PHP
 
-ENGLISH :
+**ENGLISH** :
 This is my personal project based on PHP and MySQL
 
 This project aims to make me learn
@@ -14,7 +14,7 @@ If you want to try the results of my project you can download it and follow thes
 6. Open new tabs and type : localhost/MyChatApp
 7. Finish
 
-INDONESIA :
+**INDONESIA** :
 Ini adalah projek pribadi buatan saya yang berbasis PHP dan MySQL
 
 Project ini bertujuan untuk saya belajar
