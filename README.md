@@ -3,7 +3,7 @@
 **ENGLISH** :
 This is my personal project based on PHP and MySQL
 
-This project aims to make me learn
+This project aims to make me learn about PHP and MySQL
 
 If you want to try the results of my project you can download it and follow these steps:
 1. Open XAMPP
@@ -17,7 +17,7 @@ If you want to try the results of my project you can download it and follow thes
 **INDONESIA** :
 Ini adalah projek pribadi buatan saya yang berbasis PHP dan MySQL
 
-Project ini bertujuan untuk saya belajar
+Project ini bertujuan untuk saya belajar tentang PHP dan MySQL
 
 Jika anda ingin mencoba hasil project saya anda bisa mendownloadnya dan mengikuti step-step ini :
 1. Buka XAMPP
